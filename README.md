@@ -21,6 +21,8 @@ ES7+ Proposals follow [this process document](https://docs.google.com/document/d
 |🚀| [Additional export-from Statements](https://github.com/leebyron/ecmascript-more-export-from)| Lee Byron | 1
 | | [Class and Property Decorators](https://github.com/wycats/javascript-decorators/blob/master/README.md) | Yehuda Katz and Jonathan Turner | 1 |
 |🚀| [Rest/Spread Properties](https://github.com/sebmarkbage/ecmascript-rest-spread) | Sebastian Markbage | 1
+| | [Class Property Declarations](https://github.com/jeffmo/es-class-properties)| Jeff Morrison| 1
+
 
 
 🚀 means the champion thinks it's ready to advance but has not yet presented to the committee.
